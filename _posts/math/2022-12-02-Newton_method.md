@@ -16,7 +16,7 @@ mathjax: true
 
 $$ x_{n+1} = x_{n} - \frac{f(x_n)}{f'(x_n)} $$
 
-其中$x_n$代表第n次计算后的值。停止的条件可以设置为$ \left | x_{n+1} - x_{n} \right | < \varepsilon $.
+其中$x_n$代表第n次计算后的值。停止的条件可以设置为$$ |x_{n+1} - x_{n}| < \varepsilon $$.
 
 
 # 求解一元三次方程
