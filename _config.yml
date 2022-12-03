@@ -1,9 +1,9 @@
 # Site settings
 title: Amy Sang & Daniel
-SEOTitle: Amy Sang和Daniel的博客
+SEOTitle: Amy Sang和Daniel的博客 | Blog of Amy Sang and Daniel
 header-img: img/th (1).jfif
 email: admin@amysang.com
-description: "这里是 @AmySang 的个人博客，与你一起发现更大的世界"
+description: "这里是 @AmySang 和 Daniel 的博客，与你一起发现更大的世界"
 keyword: "Amy Sang"
 url: "https://amysang.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id:  # Format: UA-xxxxxx-xx
+ga_domain: 
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -91,5 +91,6 @@ page-mathjax: true
 # Friends
 friends:
   [
-    { title: "震惊部", href: "https://blog.onbed.cn/" }
+    { title: "震惊部", href: "https://blog.onbed.cn/" },
+    { title: "Hengrui Tech", href: "https://hengrui.tech/" }
   ]
