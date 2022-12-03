@@ -1,14 +1,10 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Amy & Daniel",
+  "short_name": "Amy & Daniel",
+  "description": "Amy & Daniel Blog with Love",
   "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
-    "type": "image/png"
-  }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
+    "src": "/img/Unti444tled.png",
+    "sizes": "517x517",
     "type": "image/png"
   }],
   "background_color": "#fff",
