@@ -92,5 +92,6 @@ page-mathjax: true
 friends:
   [
     { title: "震惊部", href: "https://blog.onbed.cn/" },
-    { title: "Hengrui Tech", href: "https://hengrui.tech/" }
+    { title: "Hengrui Tech", href: "https://hengrui.tech/" },
+    { title: "交换友链", href: "/about" }
   ]
