@@ -10,7 +10,7 @@ mathjax: true
 
 # 概率论的基本概念
 
-样本空间$ \omega $：基本事件的集合。
+样本空间$ \Omega $：基本事件的集合。
 
 $\sigma $ -field/algebra, $ \mathcal{F} $：基本事件的集合。
 
